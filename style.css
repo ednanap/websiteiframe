@@ -12,7 +12,7 @@ header {
 }
 
 header h1 {
-    font-size: 3em;
+    font-size: 5em;
     color: #FFA500;
     width: 100%;
 }
@@ -37,12 +37,12 @@ section {
 }
 
 section h2 {
-    font-size: 2em;
+    font-size: 3.5em;
     width: 100%;
 }
 
 section p {
-    font-size: 1.2em;
+    font-size: 1.8em;
     width: 100%;
     line-height: 1.6em;
 }
