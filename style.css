@@ -37,14 +37,14 @@ section {
 }
 
 section h2 {
-    font-size: 3.5em;
+    font-size: 5em;
     width: 100%;
 }
 
 section p {
-    font-size: 1.8em;
+    font-size: 3em;
     width: 100%;
-    line-height: 1.6em;
+    line-height: 2.7em;
 }
 
 .project {
